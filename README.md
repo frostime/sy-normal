@@ -2,8 +2,8 @@
 
 ## 声明
 
-- 原 [normal主题](https://github.com/shawnblues/normal)
-- 作者 [shawnblues](https://github.com/shawnblues)
+- 原思源 [normal主题](https://github.com/shawnblues/normal)
+- 原作者 [shawnblues](https://github.com/shawnblues)
 - 目前由[思源开发者社区](https://github.com/siyuan-community)接手后重新上架
 
 ## 1.日计划与周总结模板
@@ -62,7 +62,7 @@
 
 # CHANGELOG
 
-## v0.1.0...v1.1.0 现代化改造
+## v0.1.0...v1.2.0 现代化改造
 
 - 根据新的集市规范进行适应性移植
 - 修复旧有的一些 bug
